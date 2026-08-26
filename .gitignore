@@ -1,0 +1,11 @@
+# Ignore large binary files and directories
+cudart.zip
+sd.zip
+models/
+out/
+bin/
+bin_tmp/
+__pycache__/
+*.pyc
+*.log
+.DS_Thumbs
